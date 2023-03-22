@@ -1,2 +1,2 @@
-# python-test-project
-This is starter use of Python.
+# · Starter use of Python
+This content was develop by Hurricane Shao.
